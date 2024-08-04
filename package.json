@@ -1,0 +1,20 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndrewBrown77/svg-logo-maker"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
